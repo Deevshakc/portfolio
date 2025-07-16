@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 65px;
+    margin: 1% 0% 0% 1%;
+    background-image: url(vecteezy_selective-focus-photography-green-leaf-plant-with-dew_1758845.jpeg);
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
